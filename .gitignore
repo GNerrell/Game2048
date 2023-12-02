@@ -1,0 +1,16 @@
+# Project exclude paths
+/shelf/
+/workspace.xml
+*.class
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws

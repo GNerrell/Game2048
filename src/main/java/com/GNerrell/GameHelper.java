@@ -1,0 +1,9 @@
+package com.GNerrell;
+
+import java.util.List;
+
+public class GameHelper {
+    public List<Integer> moveAndMergeEqual(List<Integer> list) {
+        return null;
+    };
+}
